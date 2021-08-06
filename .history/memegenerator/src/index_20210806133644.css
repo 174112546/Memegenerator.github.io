@@ -41,7 +41,7 @@ header>img {
 
 header>p {
   font-family: VT323, monospace;
-  color: #f3f1f1;
+  color: rgb(122, 6, 6);
   font-size: 50px;
   margin-left: 60px;
 }
@@ -107,14 +107,14 @@ header>p {
   font-size: 25px;
   letter-spacing: 1.5px;
   color: white;
-  background: rgb(43, 2, 56);
+  background: #6441A5;
 }
 
 .meme-form>input::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   font-family: VT323, monospace;
   font-size: 25px;
-  text-align: center;
+  text-align: cen
 }
 
 .meme-form>input::-moz-placeholder {

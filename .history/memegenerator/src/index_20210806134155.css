@@ -107,14 +107,14 @@ header>p {
   font-size: 25px;
   letter-spacing: 1.5px;
   color: white;
-  background: rgb(43, 2, 56);
+  background: #111111;
 }
 
 .meme-form>input::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   font-family: VT323, monospace;
   font-size: 25px;
-  text-align: center;
+  text-align: cen;
 }
 
 .meme-form>input::-moz-placeholder {
